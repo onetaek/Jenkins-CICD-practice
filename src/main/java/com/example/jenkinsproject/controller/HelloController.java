@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.HashMap;
 import java.util.Map;
 
-// github push event test
+// github push event test2
 @RestController
 public class HelloController {
 
