@@ -1,12 +1,12 @@
 FROM amazoncorretto:17 AS builder
 
 WORKDIR /app
-COPY build/libs/jenkins-project-*.jar ./
+COPY build/libs/jenkins-project-*.jar ./app.jar
 
 FROM amazoncorretto:17
 
 WORKDIR /app
-COPY --from=builder /app/jenkins-project-*.jar ./
+COPY --from=builder /app/app.jar ./app.jar
 
 ENTRYPOINT java -jar app.jar
 
