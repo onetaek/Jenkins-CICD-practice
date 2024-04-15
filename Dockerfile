@@ -6,7 +6,7 @@ COPY build/libs/jenkins-project-*.jar ./
 FROM amazoncorretto:17
 
 WORKDIR /app
-COPY --from=builder /app/jenkins-project-*.jar app.jar
+COPY --from=builder /app/jenkins-project-*.jar ./
 
 ENTRYPOINT java -jar app.jar
 
