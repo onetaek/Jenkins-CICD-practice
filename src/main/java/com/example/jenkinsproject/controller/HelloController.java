@@ -22,6 +22,7 @@ public class HelloController {
 
     @GetMapping
     public Map<String, String> getClientInfo(HttpServletRequest request) {
+        System.out.println("request = " + request);
         Map<String, String> clientInfo = new HashMap<>();
         // IP 주소
         clientInfo.put("ip: ", request.getRemoteAddr());
