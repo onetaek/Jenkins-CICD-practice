@@ -19,14 +19,12 @@ public class HelloController {
 
     @GetMapping
     public Map<String, String> getClientInfo(HttpServletRequest request) {
-        System.out.println("request = " + request);
         return Map.of(
                 "ip: ", request.getRemoteAddr(),
                 "port: ", String.valueOf(request.getRemotePort()),
                 "method: ", request.getMethod(),
                 "url: ", request.getRequestURL().toString(),
                 "uri: ", request.getRequestURI(),
-                "queryString: ", request.getQueryString(),
                 "userAgent: ", request.getHeader("User-Agent"),
                 "value1: ", value1,
                 "value2: ", value2
