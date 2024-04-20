@@ -30,6 +30,6 @@ public class HelloController {
                 "userAgent: ", request.getHeader("User-Agent"),
                 "value1: ", value1,
                 "value2: ", value2
-        )
+        );
     }
 }
