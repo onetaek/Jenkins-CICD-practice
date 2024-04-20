@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+application:
+  value1: ${APPLICATION_VALUE1}
+  value2: ${APPLICATION_VALUE2}
