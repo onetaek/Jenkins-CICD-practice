@@ -4,6 +4,12 @@
 - Jenkins, Spring Boot 모두 Docker를 사용하여 컨테이너 환경에서 동작시켰습니다.
 - velog에 시리즈로 환경구축한 과정을 포스팅하였습니다.
 
+![SpringBoot](https://img.shields.io/badge/Springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![jenkins](https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![amazonaws](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
+
 # Jenkins와 Docker로 AWS서버에 자동 배포하기 
 <div aglin="center">  
   <a href="https://github.com/eungyeole/velog-readme-stats">
