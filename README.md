@@ -12,7 +12,7 @@
 
 # Jenkins와 Docker로 AWS서버에 자동 배포하기 
 <div aglin="center">  
-  <a href="https://github.com/eungyeole/velog-readme-stats">
+  <a href="https://velog.io/@wontaekoh/Jenkins%EC%99%80-Docker%EB%A1%9C-AWS%EC%84%9C%EB%B2%84%EC%97%90-%EC%9E%90%EB%8F%99-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0">
     <img src="https://velog-readme-stats.vercel.app/api?name=wontaekoh&slug=Jenkins-고도화하기Pull-Requst-환경변수" alt="Velog's GitHub stats: Jenkins 고도화하기 (Pull Requst, 환경변수)" />
   </a>
   <img src="https://github.com/onetaek/Jenkins-CICD-practice/assets/86419261/89952bac-a4fa-4288-99c5-be08dcf0c537" />
@@ -20,7 +20,7 @@
 
 # Jenkins 고도화하기 (Pull Requst, 환경변수) 
 <div aglin="center"> 
-  <a href="https://github.com/eungyeole/velog-readme-stats">
+  <a href="https://velog.io/@wontaekoh/Jenkins-%EA%B3%A0%EB%8F%84%ED%99%94%ED%95%98%EA%B8%B0Pull-Requst-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98">
     <img src="https://velog-readme-stats.vercel.app/api?name=wontaekoh&slug=Jenkins-고도화하기Pull-Requst-환경변수" alt="Velog's GitHub stats: Jenkins 고도화하기 (Pull Requst, 환경변수)" />
   </a>
   <img src="https://github.com/onetaek/Jenkins-CICD-practice/assets/86419261/7624c8fa-5a50-44e8-aad9-a789274fa66d" />
